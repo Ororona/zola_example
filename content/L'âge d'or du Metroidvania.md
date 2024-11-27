@@ -35,6 +35,7 @@ Jeux mentionnés:
 * Hollow Knight
 * Iconociasts
 * Metroid Dread
+* Bonjour
 * Metroid Fusion
 * Metroid: Zero Mission
 * Nine Sois
