@@ -1,0 +1,5 @@
+
+Sitemap: https://Ororona.github.io/zola_example/sitemap.xml
+User-Agent: *
+Allow: /
+Host: https://Ororona.github.io/zola_example
