@@ -298,7 +298,13 @@
         <link rel="alternate" type="text/html" href="https://Ororona.github.io/zola_example/mortellerandonnee/"/>
         <id>https://Ororona.github.io/zola_example/mortellerandonnee/</id>
         
-        <content type="html" xml:base="https://Ororona.github.io/zola_example/mortellerandonnee/">&lt;p&gt;&lt;em&gt;Bonjour&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://Ororona.github.io/zola_example/mortellerandonnee/">&lt;p&gt;&lt;em&gt;Bonjour&lt;&#x2F;em&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;biodiversitypmc.sibils.org&#x2F;img&#x2F;logo_banner.7ff68d4d.png&quot; alt=&quot;Image&quot; &#x2F;&gt;
+| Amour | Ami  | Arbre   |
+| oui | non | non |
+| oui   | non    | oui |
+| oui   | oui    | oui |
+[&lt;em&gt;Biodiversity&lt;&#x2F;em&gt; &lt;strong&gt;PMC&lt;&#x2F;strong&gt;] &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;biodiversitypmc.sibils.org&#x2F;&quot;&gt;Limk&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 </content>
         
     </entry>
