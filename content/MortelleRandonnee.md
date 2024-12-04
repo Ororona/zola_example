@@ -17,6 +17,5 @@ toc = true
 | ------| ------| --------|
 | oui   | non   | non     |
 | oui   | non   | oui     |
-| oui   | oui   | oui     |
 
 [*Biodiversity* **PMC**] [Limk](https://biodiversitypmc.sibils.org/)
