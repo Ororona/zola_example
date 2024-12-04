@@ -23,7 +23,8 @@
         <link rel="alternate" type="text/html" href="https://Ororona.github.io/zola_example/mortellerandonnee/"/>
         <id>https://Ororona.github.io/zola_example/mortellerandonnee/</id>
         
-        <content type="html" xml:base="https://Ororona.github.io/zola_example/mortellerandonnee/"></content>
+        <content type="html" xml:base="https://Ororona.github.io/zola_example/mortellerandonnee/">&lt;p&gt;&lt;em&gt;Bonjour&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
         
     </entry>
 </feed>
