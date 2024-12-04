@@ -15,7 +15,8 @@ toc = true
 
 | Amour | Ami   | Arbre   |
 | ------| ------| --------|
-| oui   | non   | non     |
+| oui   | non[^1]   | non     |
 | oui   | non   | oui     |
 
-[*Biodiversity* **PMC**] [Limk](https://biodiversitypmc.sibils.org/)
+[*Biodiversity* **PMC**] [Link](https://biodiversitypmc.sibils.org/)
+[^1]: Référence bibliographique obscure
